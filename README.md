@@ -9,4 +9,4 @@ To run the script, ensure you have Python 3.8 or later and execute the following
 sudo python3 create-users.py < create-users.input
 
 
-<img width="732" alt="addeduser" src="https://github.com/shafiimohamud/inet_4031_adduser_script/assets/62619388/88efaec7-d310-462c-aa57-798ac0acc156">
+![addeduser](https://raw.githubusercontent.com/shafiimohamud/inet_4031_adduser_script/main/addeduser.png)
