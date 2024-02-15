@@ -7,3 +7,6 @@ This script automates the process of creating user accounts on a Linux system. I
 To run the script, ensure you have Python 3.8 or later and execute the following command:
 ```bash
 sudo python3 create-users.py < create-users.input
+
+
+<img width="732" alt="addeduser" src="https://github.com/shafiimohamud/inet_4031_adduser_script/assets/62619388/88efaec7-d310-462c-aa57-798ac0acc156">
